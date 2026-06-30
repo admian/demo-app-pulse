@@ -8,8 +8,7 @@ A vibrant fitness app launch page demo built with **React**, **TypeScript**, **V
 
 ## Live Demo
 
-> Deploy to Vercel and paste your URL here:
-> `https://your-demo.vercel.app`
+https://demo-app-pulse.vercel.app
 
 ## Features
 
