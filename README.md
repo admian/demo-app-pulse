@@ -17,6 +17,7 @@ A vibrant fitness app launch page demo built with **React**, **TypeScript**, **V
 - App Store / Google Play download buttons
 - Features, stats banner, testimonials
 - Free trial CTA section
+- Interactive buttons with toast feedback
 
 ## Tech Stack
 
